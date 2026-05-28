@@ -1,0 +1,15 @@
+C:\Users\francesco.righi\Desktop\Nuova cartella\progetto rete neurale\obj\Debug\net10.0\Progetto Rete Neurale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\francesco.righi\Desktop\Nuova cartella\progetto rete neurale\obj\Debug\net10.0\Progetto Rete Neurale.AssemblyInfoInputs.cache
+C:\Users\francesco.righi\Desktop\Nuova cartella\progetto rete neurale\obj\Debug\net10.0\Progetto Rete Neurale.AssemblyInfo.cs
+C:\Users\francesco.righi\Desktop\Nuova cartella\progetto rete neurale\obj\Debug\net10.0\Progetto Rete Neurale.csproj.CoreCompileInputs.cache
+C:\Users\francesco.righi\Desktop\Nuova cartella\progetto rete neurale\obj\Debug\net10.0\Progetto Rete Neurale.sourcelink.json
+C:\Users\francesco.righi\Desktop\Nuova cartella\progetto rete neurale\bin\Debug\net10.0\Progetto Rete Neurale.exe
+C:\Users\francesco.righi\Desktop\Nuova cartella\progetto rete neurale\bin\Debug\net10.0\Progetto Rete Neurale.deps.json
+C:\Users\francesco.righi\Desktop\Nuova cartella\progetto rete neurale\bin\Debug\net10.0\Progetto Rete Neurale.runtimeconfig.json
+C:\Users\francesco.righi\Desktop\Nuova cartella\progetto rete neurale\bin\Debug\net10.0\Progetto Rete Neurale.dll
+C:\Users\francesco.righi\Desktop\Nuova cartella\progetto rete neurale\bin\Debug\net10.0\Progetto Rete Neurale.pdb
+C:\Users\francesco.righi\Desktop\Nuova cartella\progetto rete neurale\obj\Debug\net10.0\Progetto Rete Neurale.dll
+C:\Users\francesco.righi\Desktop\Nuova cartella\progetto rete neurale\obj\Debug\net10.0\refint\Progetto Rete Neurale.dll
+C:\Users\francesco.righi\Desktop\Nuova cartella\progetto rete neurale\obj\Debug\net10.0\Progetto Rete Neurale.pdb
+C:\Users\francesco.righi\Desktop\Nuova cartella\progetto rete neurale\obj\Debug\net10.0\Progetto Rete Neurale.genruntimeconfig.cache
+C:\Users\francesco.righi\Desktop\Nuova cartella\progetto rete neurale\obj\Debug\net10.0\ref\Progetto Rete Neurale.dll

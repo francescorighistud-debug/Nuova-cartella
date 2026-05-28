@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\francesco.righi\\Desktop\\Nuova cartella\\Progetto Rete Neurale\\Progetto Rete Neurale.csproj": {}
+    "C:\\Users\\francesco.righi\\Desktop\\Nuova cartella\\progetto rete neurale\\Progetto Rete Neurale.csproj": {}
   },
   "projects": {
-    "C:\\Users\\francesco.righi\\Desktop\\Nuova cartella\\Progetto Rete Neurale\\Progetto Rete Neurale.csproj": {
+    "C:\\Users\\francesco.righi\\Desktop\\Nuova cartella\\progetto rete neurale\\Progetto Rete Neurale.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\francesco.righi\\Desktop\\Nuova cartella\\Progetto Rete Neurale\\Progetto Rete Neurale.csproj",
+        "projectUniqueName": "C:\\Users\\francesco.righi\\Desktop\\Nuova cartella\\progetto rete neurale\\Progetto Rete Neurale.csproj",
         "projectName": "Progetto Rete Neurale",
-        "projectPath": "C:\\Users\\francesco.righi\\Desktop\\Nuova cartella\\Progetto Rete Neurale\\Progetto Rete Neurale.csproj",
+        "projectPath": "C:\\Users\\francesco.righi\\Desktop\\Nuova cartella\\progetto rete neurale\\Progetto Rete Neurale.csproj",
         "packagesPath": "C:\\Users\\francesco.righi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\francesco.righi\\Desktop\\Nuova cartella\\Progetto Rete Neurale\\obj\\",
+        "outputPath": "C:\\Users\\francesco.righi\\Desktop\\Nuova cartella\\progetto rete neurale\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
